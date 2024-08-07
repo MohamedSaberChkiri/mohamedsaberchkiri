@@ -9,5 +9,5 @@ I'm based in Lübeck, Germany and love diving into new technologies. When I'm no
 - **Languages:** JavaScript, TypeScript, HTML5, CSS3, Python, PHP
 - **Frameworks:** React.js, Node.js, Express.js, NEXT.js, Vue.js
 - **DBs:**  MongoDB, MySql
-- **Soft Skills:** Effective communication, problem-solving, attention to detail
+- **Soft Skills:** Effective communication, problem-solving and attention to details
 
